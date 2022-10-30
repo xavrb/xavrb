@@ -5,7 +5,7 @@
 - 📫 How to reach me :
   - Linkedin: javiermejiap
   - Mail: hi [at] javiermejia [dot] me
-  - Telegram: @xavrb
+  - Telegram: [@xavrb](https://t.me/xavrb) 
 
 <!---
 xavrb/xavrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
