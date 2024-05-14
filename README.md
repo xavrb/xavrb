@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xavrb himself.
 - 👀 I’m interested in cloud technologies as k8s, Terraform and Helm. Love Python and bash for scripting.
-- 🌱 I’m currently learning Go and Ruby.
+- 🌱 I’m currently learning Go and Rust.
 - 💞️ I’m looking to collaborate on open source cloud projects.
 - 📫 How to reach me :
   - Linkedin: javiermejiap
